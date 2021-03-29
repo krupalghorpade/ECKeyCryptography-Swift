@@ -1,2 +1,4 @@
-# ECKeyCryptography-Swift5
-This repository demos creation of Public, Private keys and shared secret generation in iOS using Swift language.
+# ECKeyCryptography-Swift
+This repository demos creation of Public, Private keys, shared secret generation and data encryption and decryption in iOS using Swift language.
+
+## Repo update coming soon!!
